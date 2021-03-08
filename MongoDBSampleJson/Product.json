@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "603face5f6b86429dc1b5333"
+  },
+  "Product_Id": 1,
+  "ProductName": "Product",
+  "EntryDate": {
+    "$date": "2021-02-28T18:30:00Z"
+  },
+  "Price": 2
+},{
+  "_id": {
+    "$oid": "6044f4b6a41aa4653838ede1"
+  },
+  "Product_Id": 2,
+  "ProductName": "Product1",
+  "EntryDate": {
+    "$date": "2021-02-28T18:30:00Z"
+  },
+  "Price": 2
+},{
+  "_id": {
+    "$oid": "6044f4f6a41aa4653838ede2"
+  },
+  "Product_Id": 2,
+  "ProductName": "Product3",
+  "EntryDate": {
+    "$date": "2021-02-28T18:30:00Z"
+  },
+  "Price": 23
+}]
