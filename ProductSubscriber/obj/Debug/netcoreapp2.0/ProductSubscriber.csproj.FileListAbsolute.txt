@@ -1,0 +1,15 @@
+E:\RabbitMqBasic-master\RabbitSubscriber\bin\Debug\netcoreapp2.0\ProductSubscriber.deps.json
+E:\RabbitMqBasic-master\RabbitSubscriber\bin\Debug\netcoreapp2.0\ProductSubscriber.runtimeconfig.json
+E:\RabbitMqBasic-master\RabbitSubscriber\bin\Debug\netcoreapp2.0\ProductSubscriber.runtimeconfig.dev.json
+E:\RabbitMqBasic-master\RabbitSubscriber\bin\Debug\netcoreapp2.0\ProductSubscriber.dll
+E:\RabbitMqBasic-master\RabbitSubscriber\bin\Debug\netcoreapp2.0\ProductSubscriber.pdb
+E:\RabbitMqBasic-master\RabbitSubscriber\bin\Debug\netcoreapp2.0\Product.Messages.dll
+E:\RabbitMqBasic-master\RabbitSubscriber\bin\Debug\netcoreapp2.0\Product.Messages.pdb
+E:\RabbitMqBasic-master\RabbitSubscriber\obj\Debug\netcoreapp2.0\ProductSubscriber.csprojAssemblyReference.cache
+E:\RabbitMqBasic-master\RabbitSubscriber\obj\Debug\netcoreapp2.0\ProductSubscriber.AssemblyInfoInputs.cache
+E:\RabbitMqBasic-master\RabbitSubscriber\obj\Debug\netcoreapp2.0\ProductSubscriber.AssemblyInfo.cs
+E:\RabbitMqBasic-master\RabbitSubscriber\obj\Debug\netcoreapp2.0\ProductSubscriber.csproj.CoreCompileInputs.cache
+E:\RabbitMqBasic-master\RabbitSubscriber\obj\Debug\netcoreapp2.0\ProductSubscriber.csproj.CopyComplete
+E:\RabbitMqBasic-master\RabbitSubscriber\obj\Debug\netcoreapp2.0\ProductSubscriber.dll
+E:\RabbitMqBasic-master\RabbitSubscriber\obj\Debug\netcoreapp2.0\ProductSubscriber.pdb
+E:\RabbitMqBasic-master\RabbitSubscriber\obj\Debug\netcoreapp2.0\ProductSubscriber.genruntimeconfig.cache
