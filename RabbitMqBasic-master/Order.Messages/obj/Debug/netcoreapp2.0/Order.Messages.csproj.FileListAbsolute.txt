@@ -1,0 +1,8 @@
+E:\RabbitMqBasic-master\Order.Messages\bin\Debug\netcoreapp2.0\Order.Messages.deps.json
+E:\RabbitMqBasic-master\Order.Messages\bin\Debug\netcoreapp2.0\Order.Messages.dll
+E:\RabbitMqBasic-master\Order.Messages\bin\Debug\netcoreapp2.0\Order.Messages.pdb
+E:\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.AssemblyInfoInputs.cache
+E:\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.AssemblyInfo.cs
+E:\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.csproj.CoreCompileInputs.cache
+E:\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.dll
+E:\RabbitMqBasic-master\Order.Messages\obj\Debug\netcoreapp2.0\Order.Messages.pdb
